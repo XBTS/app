@@ -1,3 +1,5 @@
+[![xbts](https://snapcraft.io/xbts/badge.svg)](https://snapcraft.io/xbts)
+
 # XBTS Wallet &amp; DeFi AMM
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GwyvSnNiorc/0.jpg)](https://youtu.be/GwyvSnNiorc?list=PLVJLCymNSYyquMrdNDQfqoKOHvGqm07L7)
